@@ -1,0 +1,165 @@
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\ProjetoAcademia.dll.config
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\ProjetoAcademia.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\ProjetoAcademia.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Antlr3.Runtime.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\EntityFramework.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\EntityFramework.SqlServer.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Google.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Web.Infrastructure.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Newtonsoft.Json.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Owin.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Helpers.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Mvc.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Optimization.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Razor.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.Deployment.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.Razor.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\WebGrease.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\EntityFramework.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\EntityFramework.SqlServer.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Helpers.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Mvc.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Optimization.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Razor.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.Deployment.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.Razor.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Newtonsoft.Json.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Antlr3.Runtime.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Google.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.dll
+c:\users\amanda\documents\visual studio 2013\Projects\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+F:\ProjetoAcademia\ProjetoAcademia\bin\ProjetoAcademia.dll.config
+F:\ProjetoAcademia\ProjetoAcademia\bin\ProjetoAcademia.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\ProjetoAcademia.pdb
+F:\ProjetoAcademia\ProjetoAcademia\bin\Antlr3.Runtime.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\EntityFramework.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\EntityFramework.SqlServer.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Google.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Web.Infrastructure.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Newtonsoft.Json.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\Owin.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Helpers.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Mvc.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Optimization.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Razor.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.Deployment.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.Razor.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\WebGrease.dll
+F:\ProjetoAcademia\ProjetoAcademia\bin\EntityFramework.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\EntityFramework.SqlServer.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Helpers.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Mvc.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Optimization.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.Razor.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.Deployment.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\System.Web.WebPages.Razor.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Newtonsoft.Json.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Antlr3.Runtime.pdb
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Google.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ProjetoAcademia\ProjetoAcademia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csprojResolveAssemblyReference.cache
+F:\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.dll
+F:\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\ProjetoAcademia.dll.config
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\ProjetoAcademia.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\ProjetoAcademia.pdb
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Antlr3.Runtime.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\EntityFramework.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\EntityFramework.SqlServer.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Newtonsoft.Json.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Owin.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.Helpers.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.Mvc.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.Optimization.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.Razor.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.WebPages.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\WebGrease.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\EntityFramework.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\EntityFramework.SqlServer.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.Helpers.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.Mvc.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.Optimization.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.Razor.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.WebPages.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Newtonsoft.Json.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Antlr3.Runtime.pdb
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\obj\Debug\ProjetoAcademia.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\obj\Debug\ProjetoAcademia.dll
+C:\Users\Anonymous\Documents\GitHub\progym\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb

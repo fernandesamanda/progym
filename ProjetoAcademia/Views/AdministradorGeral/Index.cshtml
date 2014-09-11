@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+
+    var administradores = this.Model as List<ProjetoAcademia.Models.AdministradorGeral>;
+    
+}
+
+<h2>Index</h2>
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>CPF</th>
+    </tr>
+    @foreach (var item in administradores)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem =>item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cpf)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Editar", new {Id = item.Id })
+            </td>
+        </tr>
+        
+    }
+</table>

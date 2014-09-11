@@ -1,0 +1,104 @@
+﻿@model ProjetoAcademia.Models.AdministradorGeral
+
+@{
+    ViewBag.Title = "Editar";
+}
+
+<h2>Editar</h2>
+@using (Html.BeginForm())
+{
+    //protege campos hidden
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+
+        <h4>Administrador Geral</h4>
+        <hr />
+        @Html.HiddenFor(administrador => administrador.Id)
+
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.Nome, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.Nome)
+                @Html.ValidationMessageFor(model => model.Nome)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.Cpf, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.Cpf)
+                @Html.ValidationMessageFor(model => model.Cpf)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.Endereco, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.Endereco)
+                @Html.ValidationMessageFor(model => model.Endereco)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.Numero, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.Numero)
+                @Html.ValidationMessageFor(model => model.Numero)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.Bairro, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.Bairro)
+                @Html.ValidationMessageFor(model => model.Bairro)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.Cep, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.Cep)
+                @Html.ValidationMessageFor(model => model.Cep)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.Telefone, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.Telefone)
+                @Html.ValidationMessageFor(model => model.Telefone)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.Email, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(administrador => administrador.DataCadastro, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(administrador => administrador.DataCadastro)
+                @Html.ValidationMessageFor(model => model.DataCadastro)
+            </div>
+        </div>
+
+        <div class="form-group">
+
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Salvar" class="btn btn-default" />
+            </div>
+        </div>
+
+    </div>
+}
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+

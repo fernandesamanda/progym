@@ -1,0 +1,23 @@
+﻿@model ProjetoAcademia.Models.AdministradorGeral
+
+@{
+    ViewBag.Title = "Detalhes";
+
+    var administrador = Model as ProjetoAcademia.Models.AdministradorGeral;
+}
+
+<h2>Detalhes</h2>
+<fieldset>
+    <legend>Administrador Geral</legend>
+    <div>
+        <b>Nome</b>@administrador.Nome
+    </div>
+    <div>
+        <b>CPF</b>@administrador.Cpf
+    </div>
+</fieldset>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
